@@ -31,6 +31,10 @@ This repo provides various directories for custom GPT models, allowing users to 
 [All GPTs](https://allgpts.co/)
 <br>
 [GPTs Nest](https://gptsnest.vercel.app/)
+<br>
+[Hugging Face](https://huggingface.co/models)
+<br>
+[CustomGPTs List](https://customgptslist.com/)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
