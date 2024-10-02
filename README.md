@@ -37,6 +37,8 @@ This repo provides various directories for custom GPT models, allowing users to 
 [CustomGPTs List](https://customgptslist.com/)
 <br>
 [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
+<br>
+[whatplugin.ai](https://www.whatplugin.ai/)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
