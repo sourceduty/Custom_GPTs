@@ -35,6 +35,8 @@ This repo provides various directories for custom GPT models, allowing users to 
 [Hugging Face](https://huggingface.co/models)
 <br>
 [CustomGPTs List](https://customgptslist.com/)
+<br>
+[awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
