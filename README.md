@@ -20,7 +20,7 @@ This repo provides various directories for custom GPT models, allowing users to 
 <br>
 [JustGPTs](https://justgpts.com)
 <br>
-[GPT Directory](https://gptdirectory.ai)
+[GPT Directory](https://gptdir.co/)
 <br>
 [GPTSTore](https://www.gptstore.ai)
 <br>
