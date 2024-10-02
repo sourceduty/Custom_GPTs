@@ -8,18 +8,28 @@ This repo provides various directories for custom GPT models, allowing users to 
 #
 ### Directories
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT)
 [Easy With AI (All GPTs Directory)](https://www.easywithai.com/all-gpts)
+<br>
 [ShareGPTs](https://www.sharegpts.net)
+<br>
 [GPTsDex](https://www.gptsdex.com)
+<br>
 [GPTsHunter](https://ai.ls/en/gptshunter/)
+<br>
 [GPT Directory](https://gptdirectory.cc)
+<br>
 [JustGPTs](https://justgpts.com)
+<br>
 [GPT Directory](https://gptdirectory.ai)
+<br>
 [GPTSTore](https://www.gptstore.ai)
+<br>
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
+<br>
 [Sourceduty](https://github.com/sourceduty/ChatGPT)
+<br>
 [All GPTs](https://allgpts.co/)
+<br>
 [GPTs Nest](https://gptsnest.vercel.app/)
 
 ***
