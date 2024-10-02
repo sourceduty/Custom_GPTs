@@ -10,19 +10,19 @@ This repo provides various directories for custom GPT models, allowing users to 
 
 [Easy With AI (All GPTs Directory)](https://www.easywithai.com/all-gpts)
 <br>
-[ShareGPTs](https://www.sharegpts.net)
+[Share GPTs](https://www.sharegpts.net)
 <br>
-[GPTsDex](https://www.gptsdex.com)
+[GPTs Dex](https://www.gptsdex.com)
 <br>
-[GPTsHunter](https://ai.ls/en/gptshunter/)
+[GPTs Hunter](https://ai.ls/en/gptshunter/)
 <br>
 [GPT Directory](https://gptdirectory.cc)
 <br>
-[JustGPTs](https://justgpts.com)
+[Just GPTs](https://justgpts.com)
 <br>
 [GPT Directory](https://gptdir.co/)
 <br>
-[GPTSTore](https://www.gptstore.ai)
+[GPT Store](https://www.gptstore.ai)
 <br>
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 <br>
@@ -39,6 +39,14 @@ This repo provides various directories for custom GPT models, allowing users to 
 [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 <br>
 [whatplugin.ai](https://www.whatplugin.ai/)
+<br>
+[Epic GPT Store](https://epicgptstore.com)
+<br>
+[Featured GPTs](https://www.featuredgpts.com/)
+<br>
+[GPT-Collection](https://gpt-collection.com/)
+<br>
+[GPT Crafts](https://gptcrafts.co/)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
