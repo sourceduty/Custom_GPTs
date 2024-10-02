@@ -47,6 +47,14 @@ This repo provides various directories for custom GPT models, allowing users to 
 [GPT-Collection](https://gpt-collection.com/)
 <br>
 [GPT Crafts](https://gptcrafts.co/)
+<br>
+[GPTs Finder](https://gptsfinder.net/)
+<br>
+[GPTs House](https://gptshouse.com)
+<br>
+[GPT Hub](https://gpthub.nofwl.com)
+<br>
+[GPTs Map](https://gptsmap.xyz)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
