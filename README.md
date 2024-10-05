@@ -57,6 +57,8 @@ This repo provides various directories for custom GPT models, allowing users to 
 [GPTs Map](https://gptsmap.xyz)
 <br>
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[Custom GPTs Directory](https://github.com/jtmuller5/Custom-GPTs-Directory)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
