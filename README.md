@@ -89,6 +89,8 @@ This repo provides various directories for custom GPT models, allowing users to 
 [MxGPTs](https://github.com/MxMnr/MxGPTs)
 <br>
 [List of All Public GPTs](https://www.kaggle.com/datasets/dheerajmpai/list-of-all-public-gpts)
+<br>
+[Custom GPTs in ChatGPT Store](https://www.kaggle.com/datasets/danielrosehill/custom-gpts-in-chatgpt-store)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
