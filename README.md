@@ -54,11 +54,39 @@ This repo provides various directories for custom GPT models, allowing users to 
 <br>
 [GPT Hub](https://gpthub.nofwl.com)
 <br>
+[GPTHub](https://github.com/lencx/GPTHub)
+<br>
 [GPTs Map](https://gptsmap.xyz)
 <br>
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 <br>
 [Custom GPTs Directory](https://github.com/jtmuller5/Custom-GPTs-Directory)
+<br>
+[Advanced GPTs](https://github.com/nerority/Advanced-GPTs)
+<br>
+[MyGPTs](https://github.com/innovatodev/MyGPTs)
+<br>
+[Custom-GPTs-Directory](https://github.com/jtmuller5/Custom-GPTs-Directory)
+<br>
+[gpts](https://github.com/casssapir/gpts)
+<br>
+[awesome-GPTs](https://github.com/Antonysin/awesome-GPTs)
+<br>
+[Sapir](https://github.com/sixvo-labs/Sapir)
+<br>
+[gpt-store](https://github.com/metehan777/gpt-store)
+<br>
+[Developer GPTs](https://github.com/jqueryscript/Developer-GPTs)
+<br>
+[CustomGPTs](https://github.com/tylervanable/CustomGPTs)
+<br>
+[Custom GPTs](https://github.com/Palmgrenoskari/CustomGPTs)
+<br>
+[customgpts](https://github.com/ResourceChest/custom-gpts)
+<br>
+[custom-gpts](https://github.com/walkingriver/custom-gpts)
+<br>
+[MxGPTs](https://github.com/MxMnr/MxGPTs)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
