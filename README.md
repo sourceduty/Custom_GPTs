@@ -87,6 +87,8 @@ This repo provides various directories for custom GPT models, allowing users to 
 [custom-gpts](https://github.com/walkingriver/custom-gpts)
 <br>
 [MxGPTs](https://github.com/MxMnr/MxGPTs)
+<br>
+[List of All Public GPTs](https://www.kaggle.com/datasets/dheerajmpai/list-of-all-public-gpts)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
