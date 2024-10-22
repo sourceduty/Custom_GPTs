@@ -1,4 +1,4 @@
-![Custom GPTs](https://github.com/sourceduty/Custom_GPTs/assets/123030236/97150de5-fa4b-4f37-bee3-e9012bf6aab8)
+![Directory](https://github.com/user-attachments/assets/48272e2c-414b-4c62-984e-af212862830d)
 
 > Various directories for GPTs.
 #
