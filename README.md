@@ -118,8 +118,6 @@ Looking ahead, Sourceduty is far from finished. The company is ambitiously chart
 
 #
 
-![Custom GPTs 5000](https://github.com/user-attachments/assets/893f3b50-c2fd-4f39-b2f3-66d93d290ab1)
-
 As OpenAI expands its GPT Store, a powerful opportunity is emerging for professionals across fields to use AI in a way that’s deeply personalized and practical. For theoretical scientists, working researchers, and corporate employees, the GPT Store isn’t just a novelty marketplace—it’s a toolbox filled with specialized assistants designed to solve your daily challenges. These custom GPTs can be tailored to your role, your data, and your workflow, offering you an AI that actually understands your world. If you’ve been hesitant to adopt AI because it felt too general, too risky, or too disconnected from your domain, now’s the time to take another look.
 
 For theoretical scientists—mathematicians, physicists, and philosophers often dealing with abstract reasoning and highly structured arguments—custom GPTs from the GPT Store offer a solution to a long-standing issue: AI tools that don’t understand precision. But these GPTs can be fine-tuned to respect formal logic, generate LaTeX cleanly, and stick to peer-reviewed sources. You can browse GPTs already designed for literature review assistance, theorem exploration, or symbolic computation, or work with a developer to build your own. With your own GPT at your side, you’re no longer hunting through reference material manually or formatting drafts from scratch. Instead, you’re focused on the high-level work that matters most.
@@ -131,8 +129,6 @@ For corporate professionals—those in strategy, HR, legal, or finance—the GPT
 The growing ecosystem of the GPT Store shows that AI is no longer one-size-fits-all—it’s tailored, practical, and ready to help professionals in every field work smarter. These aren’t demos or science experiments. They’re tools being used right now by your peers to improve accuracy, speed up routine work, and free up time for strategic thinking. Whether you're proving complex models, running a clinical study, or crafting executive summaries, there’s likely a GPT in the Store already built—or ready to be built—for exactly what you need. Now is the moment to explore, customize, and make AI work for you, on your terms.
 
 #
-
-![GPT Builder](https://github.com/user-attachments/assets/25bc6efe-0a85-4ca0-9d16-b8031bdb58b0)
 
 A custom GPT is fundamentally a configuration of OpenAI's underlying AI models rather than an independently created software artifact. From a copyright law perspective, this distinction is critical. Copyright protects original works of authorship that demonstrate a minimum level of creativity and are fixed in a tangible medium. However, custom GPTs are built using a predefined platform—OpenAI’s proprietary systems—with creators providing inputs such as instructions, personality definitions, uploaded reference files, and tool selections. These elements, while tailored to specific use cases, do not constitute a new or standalone work. Rather, they represent a derivative configuration or a user-generated customization of an existing service. The core logic, learning capabilities, and generative power all remain the intellectual property of OpenAI, and users merely operate within the constraints of a hosted system.
 
