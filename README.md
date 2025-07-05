@@ -140,6 +140,8 @@ Because of this shared infrastructure, a custom GPT does not meet the threshold 
 
 #
 
+![ChatGPT Science](https://github.com/user-attachments/assets/f8af04f0-23cf-4145-806a-a18af5558caa)
+
 OpenAI currently enforces a publishing limit of 20 custom GPTs per account in the marketplace within a 24-hour window. This restriction is in place to maintain platform quality, prevent spam, and ensure that each GPT meets community standards before reaching a wide audience. Users attempting to publish more than 20 GPTs in a day will encounter an error, as shown in the provided screenshot, indicating that the quota has been exceeded. While private GPTs or drafts can still be created and tested, publishing must be spaced out or managed carefully across days to comply with this limit.
 
 ---
