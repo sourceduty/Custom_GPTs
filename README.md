@@ -1,4 +1,4 @@
-![GPT Store](https://github.com/user-attachments/assets/e062e10e-9283-4afb-8f95-3342ffa3e7b2)
+![GPT Store](https://github.com/user-attachments/assets/fc6a212e-ba03-489e-a91d-fac52bc498da)
 
 [Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the current publication of `2785` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly.
 
@@ -76,12 +76,6 @@ Since the launch of the GPT store in 2023, Alex has been deeply immersed in the 
 
 This achievement places Sourceduty among the most prolific creators in the AI ecosystem, with each GPT crafted to fulfill a distinct function—whether it’s enhancing digital artistry, accelerating code development, boosting fan engagement, or automating creative workflows. These tools are not only highly functional but are also aligned with the specific challenges and opportunities faced by professionals in fields like gaming, virtual reality, 3D modeling, and content creation. The sheer variety and utility of this expansive collection illustrate Sourceduty’s agility in addressing diverse market needs, offering intuitive, AI-driven solutions that democratize access to complex technologies. From generating immersive lore and optimizing assets to automating social posts and assisting with narrative design, Sourceduty's GPTs are built to empower users of all technical backgrounds, making it easier than ever to integrate powerful AI into day-to-day creative production.
 
-<br>
-
-![5000 Custom GPTs](https://github.com/user-attachments/assets/52c1c5ea-1bbc-49d9-a10e-d981642df2c8)
-
-<br>
-
 Looking ahead, Sourceduty is far from finished. The company is ambitiously charting a course toward future milestones, with clear goals of reaching 3,000, 4,000, and ultimately 5,000 custom GPTs. This forward momentum reflects a long-term vision rooted in scalable innovation and sustained value creation. Unlike mass-produced tools, each new GPT will continue to be shaped through real-world use cases, user feedback, and an evolving understanding of the industry’s shifting demands. As Sourceduty expands its library, it simultaneously builds a comprehensive ecosystem of branded AI tools that elevate user experience, promote workflow efficiency, and foster deeper community engagement. These GPTs serve as modular building blocks for a future where artificial intelligence is seamlessly embedded into creative and technical pipelines—supporting, not supplanting, human ingenuity. With its growing portfolio, Sourceduty isn’t just adapting to the future of AI—it is actively architecting it, one GPT at a time.
 
 ---
@@ -145,8 +139,6 @@ A custom GPT is fundamentally a configuration of OpenAI's underlying AI models r
 Because of this shared infrastructure, a custom GPT does not meet the threshold for independent copyright protection as an original work. The creator may hold rights to external content they upload or reference—such as custom datasets, original writing, or proprietary frameworks—but the GPT interface, behavior, and generative outputs remain anchored to OpenAI’s platform and terms of use. Even the naming of a custom GPT, unless trademarked externally, does not guarantee exclusive rights or prevent similar titles from being used by others. This is a sharp contrast from traditional software apps or websites, where the entire codebase and interface are authored by the creator and can be registered as original software works. Therefore, under current legal interpretations, a custom GPT is more akin to a curated experience within a licensed tool rather than a new creative work protected by copyright.
 
 #
-
-![GPT Store Limit](https://github.com/user-attachments/assets/9cffb5c9-83a6-4165-beb7-464114dceb6a)
 
 OpenAI currently enforces a publishing limit of 20 custom GPTs per account in the marketplace within a 24-hour window. This restriction is in place to maintain platform quality, prevent spam, and ensure that each GPT meets community standards before reaching a wide audience. Users attempting to publish more than 20 GPTs in a day will encounter an error, as shown in the provided screenshot, indicating that the quota has been exceeded. While private GPTs or drafts can still be created and tested, publishing must be spaced out or managed carefully across days to comply with this limit.
 
