@@ -48,6 +48,8 @@ Suggested To-Do List:
 - Use a gaming computer.
 
 #
+![ChatGPT](https://github.com/user-attachments/assets/43ea58dd-9d1f-4eb4-bc36-e5e9903b3afa)
+#
 
 Sourceduty Prompts:
 
