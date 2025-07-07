@@ -155,6 +155,7 @@ The possibilities with custom GPTs are truly near limitless, thanks to the flexi
 #
 
 Alex: _OpenAI's custom GPT store is almost limitless._
+_I want to develop just over 5000 custom GPTs by the end of 2027, but I might not reach this goal._
 
 ---
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
