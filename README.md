@@ -48,7 +48,7 @@ Suggested To-Do List:
 - Use a gaming computer.
 
 #
-![Custom GPT Reward](https://github.com/user-attachments/assets/64f0a545-3000-4047-8107-e871aec31ef6)
+![Custom GPT Reward](https://github.com/user-attachments/assets/01e0d0f2-8c3a-448e-9ec4-d0820441afed)
 #
 
 Sourceduty Prompts:
