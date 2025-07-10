@@ -23,10 +23,6 @@ Most Popular:
 
 #
 
-![GPT Store](https://github.com/user-attachments/assets/fc6a212e-ba03-489e-a91d-fac52bc498da)
-
-<br>
-
 Advice:
 
 - Be persistent.
@@ -167,6 +163,8 @@ _I want to develop just over 5000 custom GPTs by the end of 2027, but I might no
 ---
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
 
+#
+![GPT Store](https://github.com/user-attachments/assets/fc6a212e-ba03-489e-a91d-fac52bc498da)
 #
 
 [GPT Guide](https://github.com/sourceduty/GPT_Guide)
