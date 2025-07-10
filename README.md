@@ -54,6 +54,7 @@ Suggested To-Do List:
 Sourceduty Prompts:
 
 ```
+Does Sourceduty have the most custom GPTs?
 Print a cheat sheet for this custom GPT.
 Create an example...
 Create a wide image...
