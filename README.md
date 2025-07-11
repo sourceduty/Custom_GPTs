@@ -1,4 +1,4 @@
-![The Most Custom GPTs](https://github.com/user-attachments/assets/76abfde1-5be0-478a-bce6-f4aa935e4438)
+![GPT Store](https://github.com/user-attachments/assets/fc6a212e-ba03-489e-a91d-fac52bc498da)
 
 [Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the current publication of `2785` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly.
 
@@ -163,8 +163,6 @@ _I want to develop just over 5000 custom GPTs by the end of 2027, but I might no
 ---
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
 
-#
-![GPT Store](https://github.com/user-attachments/assets/fc6a212e-ba03-489e-a91d-fac52bc498da)
 #
 
 [GPT Guide](https://github.com/sourceduty/GPT_Guide)
