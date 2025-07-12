@@ -164,5 +164,7 @@ _I want to develop just over 5000 custom GPTs by the end of 2027, but I might no
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
 
 #
+![Active Development](https://github.com/user-attachments/assets/912fd9c5-f673-4ade-9cb0-6dd1469c477f)
+#
 
 [GPT Guide](https://github.com/sourceduty/GPT_Guide)
