@@ -21,6 +21,8 @@ Most Popular:
 <br>
 [Browser Extension](https://chatgpt.com/g/g-QREsCa45r-browser-extension)
 
+#
+
 > [!NOTE]  
 > $200 CAD x 5000 chatbots = $1000000 CAD
 
